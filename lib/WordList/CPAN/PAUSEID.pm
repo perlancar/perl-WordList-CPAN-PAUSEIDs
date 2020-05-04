@@ -1,6 +1,8 @@
-package WordList::CPAN::PAUSEIDs;
+package WordList::CPAN::PAUSEID;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use WordList;
